@@ -1,2 +1,3 @@
 - Getting started
   - [Contents](contents.md)
+  - [Resources](resources.md)
